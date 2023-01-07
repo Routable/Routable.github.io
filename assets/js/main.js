@@ -1,9 +1,3 @@
-/**
-* Template Name: DevFolio - v4.10.0
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 (function() {
   "use strict";
 
@@ -225,10 +219,5 @@
       preloader.remove()
     });
   }
-
-  /**
-   * Initiate Pure Counter 
-   */
-  new PureCounter();
 
 })()
